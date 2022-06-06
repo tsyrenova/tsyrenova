@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Olga
 
 #### I'm a Frontend Developer 
-- 👩‍💻 I like to write code
 - 🌱 I love walking in parks, forests 
-- 🏃‍♀️ I love running
+- 🏃‍♀️ I love running, snowboarding
 - 📚 I'm constantly learning new things
 - 🌍 I speak Russian (native), English (A2)
 
