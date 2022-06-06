@@ -21,5 +21,5 @@
 <img height=50 src='https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css'/>
 
 ## Github Stats Card
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tsyrenova&show_icons=true"/>
 
