@@ -18,8 +18,9 @@
 <br/>
 
 ## Languages and Tools:
-<img height=50 src='https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css'/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/ html5-original.svg" />
+<img height=50 src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-## Github Stats Card
-<img src="https://github-readme-stats.vercel.app/api?username=tsyrenova&show_icons=true"/>
+
 
