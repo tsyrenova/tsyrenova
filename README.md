@@ -31,13 +31,13 @@
 #### Connect with me:
 <p>
 <a href="mailto:olg_a88@mail.ru">
-  <img align="left" alt="Olga's mail" width="22px" src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/046_email_mail_message_newsletter_signup_check_ok-128.png" />
+  <img align="left" alt="Olga's mail" width="32px" src="https://cdn2.iconfinder.com/data/icons/scenarium-vol-1-2/128/046_email_mail_message_newsletter_signup_check_ok-128.png" />
 </a>
 <a href="https://t.me/o_lik88">
-  <img align="left" alt="Olga's telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-128.png" />
+  <img align="left" alt="Olga's telegram" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-128.png" />
 </a>
 <a href="https://www.instagram.com/olg_a88">
-  <img align="left" alt="Olga's telegram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-22-128.png" />
+  <img align="left" alt="Olga's telegram" width="32px" src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/instagram_social_media_logo-128.png" />
 </a>
 </p>
 
