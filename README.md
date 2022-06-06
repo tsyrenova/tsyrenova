@@ -1,19 +1,19 @@
 ### Hi there 👋 I'm Olga
 
-# I'm a Junior FrontEnd Developer 
+#### I'm a Junior FrontEnd Developer 
 - 👩‍💻 I like to write code
 - 🌱 I love walking in parks, forests 
 - 🏃‍♀️ I love running
 - 📚 I'm constantly learning new things
 - 🌍 I speak Russian (native), English (A2)
 
-# 🌱 I'm currently learning
+#### 🌱 I'm currently learning
 - MobX
 - Cypress
 - Styled Components  
 - VueJS
 
-## Languages and Tools:
+#### Languages and Tools:
 <table width="320px"> 
     <tbody> 
         <tr valign="top"> 
