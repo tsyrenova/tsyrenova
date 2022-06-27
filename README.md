@@ -24,7 +24,6 @@
             <img height="40px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"> 
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-           
             <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
 </p>
