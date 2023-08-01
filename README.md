@@ -11,10 +11,9 @@
 - 🌍 I speak Russian (native), English (A2)
 
 #### 🌱 I'm currently learning
-- MobX
-- Cypress
-- Styled Components  
 - VueJS
+- React
+- Cypress
 
 #### Languages and Tools:
 <p>
